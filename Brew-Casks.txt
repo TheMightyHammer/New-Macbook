@@ -4,3 +4,5 @@ lastpass
 todoist
 iina
 arc
+microsoft-office
+discord
