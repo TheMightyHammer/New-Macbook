@@ -29,3 +29,5 @@ List of all of the Apps and Programs that I need to install, plus a suggested or
 - AirBuddy
 - Bear markdown notes
   
+## Long Term Apps
+- Code Point for MacOS
