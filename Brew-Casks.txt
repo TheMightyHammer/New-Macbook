@@ -1,3 +1,6 @@
 iterm2
 raycast
 lastpass
+todoist
+iina
+arc
