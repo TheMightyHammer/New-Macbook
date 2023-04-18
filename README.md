@@ -16,3 +16,16 @@ List of all of the Apps and Programs that I need to install, plus a suggested or
   ```sh
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
+  
+## Apps
+- Chrome
+- Parallels
+- Office
+- Outlook
+- Adobe
+- Arc Browser
+- Cron Cal
+- Texts.com
+- AirBuddy
+- Bear markdown notes
+  
