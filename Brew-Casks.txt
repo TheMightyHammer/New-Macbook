@@ -6,3 +6,4 @@ iina
 arc
 microsoft-office
 discord
+cron
