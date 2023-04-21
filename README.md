@@ -18,16 +18,10 @@ List of all of the Apps and Programs that I need to install, plus a suggested or
   ```
   
 ## Apps
-- Chrome
-- Parallels
-- Office
-- Outlook
-- Adobe
-- Arc Browser
 - Cron Cal
 - Texts.com
-- AirBuddy
-- Bear markdown notes
+- AirBuddy £16
   
 ## Long Term Apps
 - Code Point for MacOS
+- Pixel Snap 2 - $39
